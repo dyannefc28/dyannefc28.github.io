@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic Traffic Light Circuit in TinkerCAD
-image: "/posts/traffic-light.png"
+image: "/posts/Traffic-Light.png"
 tags: [TinkerCAD]
 ---
 
