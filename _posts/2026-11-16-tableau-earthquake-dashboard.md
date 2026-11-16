@@ -53,7 +53,6 @@ Some useful questions this dashboard can help answer include:
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/shared/4N57GGS68?:display_count=n&:origin=viz_share_link?:embed=yes&:display_count=yes&:showVizHome=no" width = '1090' height = '900'></iframe>
 
-https://public.tableau.com/app/profile/dyanne.chantengco.dano/viz/EarthquakeTracker_17948619143160/DSIEarthquakeTracker?publish=yes
 ___
 
 # 03. Insights <a name="insights"></a>
