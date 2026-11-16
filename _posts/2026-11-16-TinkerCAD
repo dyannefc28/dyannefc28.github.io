@@ -6,15 +6,6 @@ tags: [TinkerCAD]
 ---
 
 
-# Table of Contents
-
-- [00. Project Overview](#project-overview)
-- [01. The Data](#the-data)
-- [02. The Dashboard](#the-dashboard)
-- [03. Insights](#insights)
-
-___
-
 # 00. Project Overview <a name="project-overview"></a>
 
 The goal of this project is to build a Basic Traffic light system in TinkerCAD. 
