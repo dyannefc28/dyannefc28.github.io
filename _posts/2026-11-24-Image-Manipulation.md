@@ -24,7 +24,7 @@ print(camaro)
 
 ```
 
-![alt text](/img/posts/camaro-show.jpg")
+![alt text](/img/posts/camaro-show.jpg)
 
 
 
