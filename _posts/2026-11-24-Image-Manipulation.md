@@ -22,6 +22,11 @@ Let's get this image to generate
 camaro = io.imread("camaro.jpg")
 print(camaro)
 
+camaro.shape
+
+plt.imshow(camaro)
+plt.show()
+
 ```
 
 ![alt text](/img/posts/camaro-show.jpg)
