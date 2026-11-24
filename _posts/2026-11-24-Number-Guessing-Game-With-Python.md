@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Number Guessing Game
-image: "/posts/number-guess.jpeg"
+image: "/posts/number-guess.jpg"
 tags: [Python, Numpy, Number Guess]
 ---
 
