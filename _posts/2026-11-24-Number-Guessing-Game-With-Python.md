@@ -14,7 +14,7 @@ Let's get into it!
 Let's first start by importing random 
 
 ```ruby
-import = random 
+import random 
 ```
 
 
