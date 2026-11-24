@@ -29,7 +29,7 @@ plt.show()
 
 ```
 
-![alt text](/img/posts/camaro-show.jpg)
+![alt text](/img/posts/camaro-show.jpg "Camaro-picture")
 
 
 
